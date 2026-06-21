@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/earthjasonlin.cn.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "77.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.74%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "77.24%",
-    "time": 2444,
+    "uptime": "77.29%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "93.49%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "77.29%",
+    "time": 2445,
     "timeDay": 2861,
     "timeWeek": 2990,
     "timeMonth": 3645,
-    "timeYear": 2444,
+    "timeYear": 2445,
     "dailyMinutesDown": {
       "2025-11-02": 270,
       "2025-12-23": 337,
@@ -85,7 +85,8 @@
       "2026-01-30": 1440,
       "2026-01-29": 513,
       "2026-06-06": 81,
-      "2026-06-18": 631
+      "2026-06-18": 631,
+      "2026-06-21": 24
     }
   },
   {
@@ -94,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/get.loliquq.cn.ico",
     "slug": "get",
     "status": "down",
-    "uptime": "45.87%",
+    "uptime": "45.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.87%",
+    "uptimeYear": "45.75%",
     "time": 1317,
     "timeDay": 542,
     "timeWeek": 983,
@@ -135,7 +136,7 @@
       "2025-12-06": 453,
       "2026-01-10": 533,
       "2026-02-06": 183,
-      "2026-06-21": 211,
+      "2026-06-21": 1278,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
@@ -272,11 +273,11 @@
     "url": "https://file.loliquq.cn",
     "icon": "https://icons.duckduckgo.com/ip3/file.loliquq.cn.ico",
     "slug": "file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.27%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.26%",
     "time": 1306,
     "timeDay": 1190,
@@ -294,7 +295,8 @@
       "2026-03-22": 105,
       "2026-04-02": 681,
       "2026-06-06": 71,
-      "2026-06-18": 376
+      "2026-06-18": 376,
+      "2026-06-21": 15
     }
   },
   {
@@ -302,11 +304,11 @@
     "url": "https://git.loliquq.cn",
     "icon": "https://icons.duckduckgo.com/ip3/git.loliquq.cn.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.32%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.27%",
     "time": 1259,
     "timeDay": 1242,
@@ -324,7 +326,8 @@
       "2026-03-22": 105,
       "2026-04-02": 680,
       "2026-06-06": 66,
-      "2026-06-18": 371
+      "2026-06-18": 371,
+      "2026-06-21": 10
     }
   },
   {
@@ -332,11 +335,11 @@
     "url": "https://code.loliquq.cn",
     "icon": "https://icons.duckduckgo.com/ip3/code.loliquq.cn.ico",
     "slug": "forge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "99.27%",
     "time": 1232,
     "timeDay": 1570,
@@ -354,7 +357,8 @@
       "2026-03-22": 104,
       "2026-04-02": 680,
       "2026-06-06": 61,
-      "2026-06-18": 366
+      "2026-06-18": 366,
+      "2026-06-21": 5
     }
   },
   {
@@ -362,11 +366,11 @@
     "url": "https://rss.loliquq.cn",
     "icon": "https://icons.duckduckgo.com/ip3/rss.loliquq.cn.ico",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.41%",
-    "uptimeMonth": "99.05%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "99.27%",
     "time": 1404,
     "timeDay": 1713,
@@ -384,7 +388,8 @@
       "2026-03-22": 104,
       "2026-04-02": 679,
       "2026-06-06": 57,
-      "2026-06-18": 362
+      "2026-06-18": 362,
+      "2026-06-21": 0
     }
   }
 ]
