@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/earthjasonlin.cn.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "68.40%",
+    "uptime": "68.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.40%",
+    "uptimeYear": "68.39%",
     "time": 2447,
     "timeDay": 0,
     "timeWeek": 0,
@@ -88,7 +88,7 @@
       "2026-06-18": 631,
       "2026-06-22": 17,
       "2026-06-21": 187,
-      "2026-08-25": 947,
+      "2026-08-25": 996,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
@@ -143,11 +143,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/get.loliquq.cn.ico",
     "slug": "get",
     "status": "down",
-    "uptime": "37.34%",
+    "uptime": "37.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.34%",
+    "uptimeYear": "37.33%",
     "time": 1317,
     "timeDay": 0,
     "timeWeek": 0,
@@ -184,7 +184,7 @@
       "2025-12-06": 453,
       "2026-01-10": 533,
       "2026-02-06": 183,
-      "2026-08-25": 947,
+      "2026-08-25": 997,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
@@ -386,11 +386,11 @@
     "url": "https://file.loliquq.cn",
     "icon": "https://icons.duckduckgo.com/ip3/file.loliquq.cn.ico",
     "slug": "file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "75.22%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "77.64%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "99.27%",
     "time": 1249,
     "timeDay": 1117,
@@ -412,7 +412,8 @@
       "2026-06-22": 18,
       "2026-06-21": 177,
       "2026-08-15": 19,
-      "2026-08-24": 438
+      "2026-08-24": 438,
+      "2026-08-25": 15
     }
   },
   {
@@ -420,11 +421,11 @@
     "url": "https://git.loliquq.cn",
     "icon": "https://icons.duckduckgo.com/ip3/git.loliquq.cn.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "75.22%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "77.98%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.28%",
     "time": 1218,
     "timeDay": 1211,
@@ -445,7 +446,8 @@
       "2026-06-18": 371,
       "2026-06-22": 18,
       "2026-06-21": 172,
-      "2026-08-24": 433
+      "2026-08-24": 433,
+      "2026-08-25": 10
     }
   },
   {
@@ -454,11 +456,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.loliquq.cn.ico",
     "slug": "forge",
     "status": "down",
-    "uptime": "99.28%",
+    "uptime": "99.27%",
     "uptimeDay": "74.86%",
-    "uptimeWeek": "95.70%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.28%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "99.27%",
     "time": 1198,
     "timeDay": 1204,
     "timeWeek": 985,
@@ -479,7 +481,7 @@
       "2026-06-22": 18,
       "2026-06-21": 167,
       "2026-08-24": 428,
-      "2026-08-25": 5
+      "2026-08-25": 55
     }
   },
   {
@@ -488,11 +490,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss.loliquq.cn.ico",
     "slug": "rss",
     "status": "down",
-    "uptime": "99.29%",
+    "uptime": "99.28%",
     "uptimeDay": "76.16%",
-    "uptimeWeek": "95.93%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.29%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.28%",
     "time": 1464,
     "timeDay": 5091,
     "timeWeek": 2514,
@@ -513,7 +515,7 @@
       "2026-06-22": 18,
       "2026-06-21": 162,
       "2026-08-24": 410,
-      "2026-08-25": 0
+      "2026-08-25": 50
     }
   }
 ]
